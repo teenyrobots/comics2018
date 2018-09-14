@@ -324,6 +324,86 @@
       "digitalTitle": "EXPLORE THE INTERNET",
       "digitalUrl": "17ramm/index.html",
       "thesisPath": "17ramm/"
+    },
+    {
+      "displayName": "Kellyn Borst",
+      "slug": "borst",
+      "year": "2018",
+      "thesisPages": 2,
+      "thesisTitle": "fgh",
+      "digitalTitle": "MARS 2056",
+      "digitalUrl": "18borst/index.html",
+      "thesisPath": "18borst/"
+    },
+    {
+      "displayName": "Phillip Fleming",
+      "slug": "fleming",
+      "year": "2018",
+      "thesisPages": 0,
+      "thesisTitle": "",
+      "digitalTitle": "The Final Round",
+      "digitalUrl": "18fleming/index.html",
+      "thesisPath": "18fleming/"
+    },
+    {
+      "displayName": "Tianyi Guo",
+      "slug": "guo",
+      "year": "2018",
+      "thesisPages": 0,
+      "thesisTitle": "",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "thesisPath": "18guo/"
+    },
+    {
+      "displayName": "Sean Marney",
+      "slug": "marney",
+      "year": "2018",
+      "thesisPages": 0,
+      "thesisTitle": "",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "thesisPath": "18marney/"
+    },
+    {
+      "displayName": "Fouad Raja Mezher",
+      "slug": "rajaMezher",
+      "year": "2018",
+      "thesisPages": 0,
+      "thesisTitle": "",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "thesisPath": "18rajaMezher/"
+    },
+    {
+      "displayName": "Andrew Simpson",
+      "slug": "simpson",
+      "year": "2018",
+      "thesisPages": 0,
+      "thesisTitle": "",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "thesisPath": "18simpson/"
+    },
+    {
+      "displayName": "Darrell T. Watson",
+      "slug": "watson",
+      "year": "2018",
+      "thesisPages": 0,
+      "thesisTitle": "",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "thesisPath": "18watson/"
+    },
+    {
+      "displayName": "Eric Wong",
+      "slug": "wong",
+      "year": "2018",
+      "thesisPages": 0,
+      "thesisTitle": "",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "thesisPath": "18wong/"
     }
   ]
 }
