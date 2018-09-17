@@ -2,10 +2,346 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa541bfb-2170-4224-922d-f7238559bc8e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/bs.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/final.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/mb.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/ns.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/ow.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/puzzule1-1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/puzzule1-12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/puzzule1-2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/puzzule1-4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/pz1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/pz2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/pz4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/sg.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/header.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p1_tier1_moving.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p1_tier1_postpush.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p1_tier1_prepush.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p1_tier2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p1_tier2_panel1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p1_tier2_panel2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p1_tier3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p1_tier4_moving.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p1_tier4_postpush.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p1_tier4_prepush.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p2_tier1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p2_tier2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p2_tier2_panel1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p2_tier2_panel2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p2_tier3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p2_tier4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p2_tier5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p2_tier5_moving.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p2_tier5_postpush.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p2_tier5_prepush.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier3_panel1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier3_panel2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier5_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier5_2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier5_3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier5_4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier6_moving.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier6_postpush.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p3_tier6_prepush.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p4_tier1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p4_tier1_panel1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p4_tier1_panel2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p4_tier2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p4_tier3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p4_tier4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/assets/p5_tier1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-1-1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-1-2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-1-3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-1-4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-1-5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-1-Arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-2-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-2-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-2-03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-2-04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-2-05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-2-06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-2-07.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-2-08.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-2-09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-2-10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-2-11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-3-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-3-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-3-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-3-4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-3-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-3-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-3-Pearl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-4-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-4-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-4-3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-4-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-4-5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-4-Feather.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-5-1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/assets/page-5-bag.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/ShoulderCannon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/_DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/boot.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/boots.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/cannon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/chestplate.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/firesword.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/gauntlet.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/gauntlet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/helmet.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/last1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/last2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/last3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/last4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/last5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/onward.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel6.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/panel9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnel9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/Assets/tunnelrun.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/Digital-comic_001.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/bd0022.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/bdT001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/bdT002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/bdT003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/bdT004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/bdT004.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/bdT005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/bdT005.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/bdT006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/bdf001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/fdT001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/fdT002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/fhT001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/fhT002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h010.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h012.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/h015.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/p002_001.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/p003_001.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/p004_001.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/p005_001.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/p006_001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/v001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/v002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/assets/v003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/all the stars are closer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/finalposter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/finaltitlecard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/holdit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/homebutton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/jump 1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/jump 2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/jump 3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/jump 4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/landispitch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/maus v thanos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/maus3base.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/maus3base.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/maus3baserainbow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/maus3basethanos.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/maus3rewind.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/mausvhitler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/mausvhitler2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/mausvhitlerdialogue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/mausvthanos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/movie poster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/openingdisclaimer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/picture1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/picture2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/picture3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/rainbow stars stream.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/ss sign.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/standardbase.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/studiorevisionbutton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/themoreyouknow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/thor solo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/assets/thor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thesis/18fleming/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thesis/18fleming/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thesis/18fleming/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thesis/18fleming/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thesis/18fleming/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thesis/18fleming/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thesis/18fleming/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thesis/18fleming/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thesis/18fleming/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/assets/fr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/fr1-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/fr1-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/fr1-4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/fr2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/fr3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/fr5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/fr6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/fr7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/scrip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18guo/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18marney/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/page-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/page-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/page-4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/page-5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18rajaMezher/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/page2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/page3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/page4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/page5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/page6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/jquery.waypoints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/jquery.waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/noframework.waypoints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/noframework.waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/shortcuts/infinite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/shortcuts/infinite.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/shortcuts/inview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/shortcuts/inview.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/shortcuts/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/shortcuts/sticky.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/waypoints.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/zepto.waypoints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/lib/zepto.waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/licenses.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/src/adapters/jquery-zepto-fn-extension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/src/adapters/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/src/adapters/noframework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/src/adapters/zepto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/src/context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/src/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/src/group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/src/shortcuts/infinite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/src/shortcuts/inview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/src/shortcuts/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/src/waypoint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/adapter-fn-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/context-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/debug-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/fixtures/infinite.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/fixtures/standard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/fixtures/sticky.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/group-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/infinite-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/inview-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/lib/coffee-script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/lib/jasmine-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/lib/jasmine-jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/lib/jasmine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/lib/jasmine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/lib/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/lib/testloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/sticky-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/test/waypoint-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18simpson/waypoints/testem.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/breakDoor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/deathBD.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/freeHer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/freeHim.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/horizontal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18watson/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/page10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/page11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/page12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/page2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/page3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/page4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/page5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/page6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/page7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/page8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/page9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital/18wong/styles.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/digital/18fleming/Boxing_001.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/digital/18fleming/Boxing_002.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/digital/18fleming/Boxing_003.psd" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/students.json" afterPath="$PROJECT_DIR$/data/students.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/directory.html" afterPath="$PROJECT_DIR$/directory.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thesis.html" afterPath="$PROJECT_DIR$/thesis.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,21 +355,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="246" column="4" lean-forward="false" selection-start-line="246" selection-start-column="4" selection-end-line="246" selection-end-column="4" />
+            <state relative-caret-position="624">
+              <caret line="249" column="33" lean-forward="false" selection-start-line="249" selection-start-column="33" selection-end-line="249" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="students.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="thesis.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thesis.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="students.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/students.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="331" column="22" lean-forward="false" selection-start-line="331" selection-start-column="22" selection-end-line="331" selection-end-column="22" />
+            <state relative-caret-position="264">
+              <caret line="332" column="30" lean-forward="true" selection-start-line="332" selection-start-column="30" selection-end-line="332" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -42,8 +388,8 @@
       <file leaf-file-name="directory.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/directory.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1770">
-              <caret line="169" column="44" lean-forward="false" selection-start-line="169" selection-start-column="44" selection-end-line="169" selection-end-column="44" />
+            <state relative-caret-position="414">
+              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -51,15 +397,23 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cardD</find>
+      <find>button</find>
+      <find>card</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/students.json" />
         <option value="$PROJECT_DIR$/directory.html" />
+        <option value="$PROJECT_DIR$/thesis.html" />
         <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/data/students.json" />
       </list>
     </option>
   </component>
@@ -70,7 +424,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="592" />
+    <option name="y" value="136" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
@@ -138,15 +493,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536888750483</updated>
-      <workItem from="1536888751840" duration="1703000" />
+      <workItem from="1536888751840" duration="4442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1703000" />
+    <option name="totallyTimeSpent" value="4442000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="592" y="136" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -186,26 +541,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/students.json">
+    <entry file="file://$PROJECT_DIR$/directory.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="331" column="22" lean-forward="false" selection-start-line="331" selection-start-column="22" selection-end-line="331" selection-end-column="22" />
+        <state relative-caret-position="414">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/directory.html">
+    <entry file="file://$PROJECT_DIR$/thesis.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="169" column="44" lean-forward="false" selection-start-line="169" selection-start-column="44" selection-end-line="169" selection-end-column="44" />
+        <state relative-caret-position="401">
+          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="246" column="4" lean-forward="false" selection-start-line="246" selection-start-column="4" selection-end-line="246" selection-end-column="4" />
+        <state relative-caret-position="624">
+          <caret line="249" column="33" lean-forward="false" selection-start-line="249" selection-start-column="33" selection-end-line="249" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/students.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="332" column="30" lean-forward="true" selection-start-line="332" selection-start-column="30" selection-end-line="332" selection-end-column="30" />
           <folding />
         </state>
       </provider>
