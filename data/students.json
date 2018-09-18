@@ -329,81 +329,89 @@
       "displayName": "Kellyn Borst",
       "slug": "borst",
       "year": "2018",
-      "thesisPages": 2,
-      "thesisTitle": "TKTKTK",
+      "thesisPages": 9,
+      "thesisTitle": "Dredkuld",
       "digitalTitle": "MARS 2056",
       "digitalUrl": "18borst/index.html",
-      "thesisPath": "18borst/"
+      "thesisPath": "18borst/",
+      "backgroundImage": "images/backgrounds/15.jpg"
     },
     {
       "displayName": "Phillip Fleming",
       "slug": "fleming",
       "year": "2018",
-      "thesisPages": 0,
-      "thesisTitle": "",
+      "thesisPages": 9,
+      "thesisTitle": "Lost Jerusalem",
       "digitalTitle": "The Final Round",
       "digitalUrl": "18fleming/index.html",
-      "thesisPath": "18fleming/"
+      "thesisPath": "18fleming/",
+      "backgroundImage": "images/backgrounds/16.jpg"
     },
     {
-      "displayName": "Tianyi Guo",
+      "displayName": "Guo Tianyi",
       "slug": "guo",
       "year": "2018",
-      "thesisPages": 0,
-      "thesisTitle": "",
+      "thesisPages": 10,
+      "thesisTitle": "Time in the Bottle",
       "digitalTitle": "Fox & Rabbit",
       "digitalUrl": "18guo/fr1-1.html",
-      "thesisPath": "18guo/"
+      "thesisPath": "18guo/",
+      "backgroundImage": "images/backgrounds/17.jpg"
     },
     {
       "displayName": "Sean Marney",
       "slug": "marney",
       "year": "2018",
-      "thesisPages": 0,
-      "thesisTitle": "",
+      "thesisPages": 10,
+      "thesisTitle": "God and the Robots",
       "digitalTitle": "The Future Now",
       "digitalUrl": "18marney/index.html",
-      "thesisPath": "18marney/"
+      "thesisPath": "18marney/",
+      "backgroundImage": "images/backgrounds/18.jpg"
     },
     {
-      "displayName": "Fouad Raja Mezher",
-      "slug": "rajaMezher",
+      "displayName": "Fouad Mezher",
+      "slug": "mezher",
       "year": "2018",
-      "thesisPages": 0,
-      "thesisTitle": "",
+      "thesisPages": 12,
+      "thesisTitle": "Enigma",
       "digitalTitle": "Bradley's Vison Quest",
-      "digitalUrl": "18rajaMezher/index.html",
-      "thesisPath": "18rajaMezher/"
+      "digitalUrl": "18mezher/index.html",
+      "thesisPath": "18mezher/",
+      "backgroundImage": "images/backgrounds/19.jpg"
     },
     {
       "displayName": "Andrew Simpson",
       "slug": "simpson",
       "year": "2018",
-      "thesisPages": 0,
-      "thesisTitle": "",
+      "thesisPages": 15,
+      "thesisTitle": "Sin City Heroes:<br> Gray Falcon",
       "digitalTitle": "Desert Kingdom",
       "digitalUrl": "18simpson/index.html",
-      "thesisPath": "18simpson/"
+      "thesisPath": "18simpson/",
+      "backgroundImage": "images/backgrounds/20.jpg"
     },
     {
-      "displayName": "Darrell T. Watson",
+      "displayName": "DT Watson Jr.",
       "slug": "watson",
       "year": "2018",
-      "thesisPages": 0,
-      "thesisTitle": "",
+      "thesisPages": 14,
+      "thesisTitle": "Big Bad Mama Duke",
       "digitalTitle": "Strong Woman with a Sword",
       "digitalUrl": "18watson/index.html",
-      "thesisPath": "18watson/"
+      "thesisPath": "18watson/",
+      "backgroundImage": "images/backgrounds/21.jpg"
     },
     {
       "displayName": "Eric Wong",
       "slug": "wong",
       "year": "2018",
-      "thesisPages": 0,
-      "thesisTitle": "",
+      "thesisPages": 18,
+      "thesisTitle": "Pulp Nonfiction, <br> Chapters 1&2",
       "digitalTitle": "MausIII: The Movie",
       "digitalUrl": "18wong/index.html",
-      "thesisPath": "18wong/"
+      "thesisPath": "18wong/",
+      "backgroundImage": "images/backgrounds/22.jpg"
     }
   ]
 }

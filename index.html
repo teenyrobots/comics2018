@@ -70,6 +70,7 @@
         function setSplash(students) {
             var rando = Math.floor(Math.random() * students.length);
             var luckyStudent = students[rando];
+            console.log(students.length);
 
             var backgroundImg = "images/backgrounds/" + rando + ".jpg";
             $('body').css('background-image', 'url(' + backgroundImg + ')');

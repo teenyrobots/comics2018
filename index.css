@@ -12,7 +12,7 @@ body {
 
 /*GENERAL STYLES*/
 a {
-    font-weight: 400;
+    font-weight: 200;
     text-decoration: none;
 }
 
@@ -26,6 +26,7 @@ a:visited {
 
 a:hover {
     color: #66b2b2;
+    font-weight: 400;
 }
 
 a:active {
@@ -58,7 +59,7 @@ p {
   margin: 1em auto;
 }
 
-.button h1 {
+.button h2 {
   font-size: 4em;
   margin: 0;
 }
@@ -211,7 +212,7 @@ p {
   margin: 1em 0;
   padding: 1em 0;
   width: 80%;
-  max-width: 285px;
+  max-width: 300px;
   background: rgba(0, 0, 0, .9);
   box-shadow: 0 2px 6px rgba(0, 0, 0, .6);
 }
@@ -220,6 +221,11 @@ p {
     border: solid 1px white;
     max-width: 100%;
 }
+
+.studentCard img:hover {
+    opacity: .5;
+}
+
 
 .thesis p, .digital p {
     background-color: black;
