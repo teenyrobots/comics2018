@@ -392,17 +392,6 @@
       "backgroundImage": "images/backgrounds/20.jpg"
     },
     {
-      "displayName": "DT Watson Jr.",
-      "slug": "watson",
-      "year": "2018",
-      "thesisPages": 14,
-      "thesisTitle": "Big Bad Mama Duke",
-      "digitalTitle": "",
-      "digitalUrl": "",
-      "thesisPath": "18watson/",
-      "backgroundImage": "images/backgrounds/21.jpg"
-    },
-    {
       "displayName": "Eric Wong",
       "slug": "wong",
       "year": "2018",
@@ -411,6 +400,17 @@
       "digitalTitle": "MausIII: The Movie",
       "digitalUrl": "18wong/index.html",
       "thesisPath": "18wong/",
+      "backgroundImage": "images/backgrounds/21.jpg"
+    },
+    {
+      "displayName": "DT Watson Jr.",
+      "slug": "watson",
+      "year": "2018",
+      "thesisPages": 14,
+      "thesisTitle": "Big Bad Mama Duke",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "thesisPath": "18watson/",
       "backgroundImage": "images/backgrounds/22.jpg"
     }
   ]
